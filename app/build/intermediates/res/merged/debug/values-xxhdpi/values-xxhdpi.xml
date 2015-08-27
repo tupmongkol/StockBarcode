@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/tiwa/AndroidStudioProjects/StockBarcode/app/src/main/res/values-xxhdpi/integers.xml -->
+    <eat-comment/>
+    <integer name="viewfinder_border_length">100</integer>
+    <integer name="viewfinder_border_width">6</integer>
+</resources>
